@@ -13,4 +13,9 @@
   - promise
   - promise + generator
   - async & await
--
+- 템플릿 문법
+  - {{ data }}
+  - v-bind, v-if, v-show, v-on(keyup, keypress)
+  - watch 속성 vs computed 속성
+    - watch: 무거운 로직
+    - computed: validation이나 가벼운 연산 로직
