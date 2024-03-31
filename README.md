@@ -19,3 +19,5 @@
   - watch 속성 vs computed 속성
     - watch: 무거운 로직
     - computed: validation이나 가벼운 연산 로직
+- Vue CLI
+  - [공식 사이트](https://cli.vuejs.org/)
